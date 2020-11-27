@@ -1,1 +1,1 @@
-# git-training
+# git-trainingadded feature A
